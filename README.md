@@ -3,7 +3,7 @@ Integrante | Datos del equipo
 ---|-----------------
 **1** |  Requena Araujo Kelly
 **2** |  Gutarra Romo Flor de Maria 
-**3** |  Cullanco Acevedo Angel Nervais 
+**3** |  Cullanco Acevedo Angel Nerbayeis 
 **4** |  Villayzan Garcia Keyla
 **5** |  Hilario Caso Hieyson Steven
 
