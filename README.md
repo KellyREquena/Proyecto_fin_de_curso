@@ -22,28 +22,32 @@ Identificador|HU02
 **Nombre**|Agregar asignatura
 **Descripción**|Yo como docente, necesito agregar más asignaturas con la finalidad de elaborar una lista de asignaturas.
 **Puntos de historia (Dias ideales)**| 1.5
-**Criterios de aceptación**| En caso que el docente registre las asignaturas, el sistema arrojará un mensaje de guardado con éxito.|En caso que el docente esté registrando las asignaturas y ve que está registrando la misma asignatura el sistema mostrará un mensaje de error.
+**Criterios de aceptación**| En caso que el docente registre las asignaturas, el sistema arrojará un mensaje de guardado con éxito
+. |En caso que el docente esté registrando las asignaturas y ve que está registrando la misma asignatura el sistema mostrará un mensaje de error.
 
 Identificador|HU03
 -------------|-------------
 **Nombre**|Agregar nota
 **Descripción**|Como docente, quiero ingresar las notas, con la finalidad de realizar un registro de notas.
 **Puntos de historia (Dias ideales)**| 1.5
-**Criterios de aceptación**| En caso que el docente esté registrando las notas, el sistema arrojará un mensaje al momento de guardar.|En caso que el docente esté registrando las notas y la nota es negativa (menor a 0) o mayor a 20 el sistema mostrará un mensaje de error.
+**Criterios de aceptación**| En caso que el docente esté registrando las notas, el sistema arrojará un mensaje al momento de guardar
+. |En caso que el docente esté registrando las notas y la nota es negativa (menor a 0) o mayor a 20 el sistema mostrará un mensaje de error.
 
 Identificador|HU04
 -------------|-------------
 **Nombre**|Editar estudiantes
 **Descripción**|Como docente, quiero editar datos del estudiante, con la finalidad de actualizar la lista de estudiantes.
 **Puntos de historia (Dias ideales)**| 1.5
-**Criterios de aceptación**| En caso que el docente actualice algún dato del estudiante, se mostrará un mensaje de actualizado.|En caso que el docente se olvide de rellenar un campo, el sistema mostrará un mensaje de error.
+**Criterios de aceptación**| En caso que el docente actualice algún dato del estudiante, se mostrará un mensaje de actualizado
+. |En caso que el docente se olvide de rellenar un campo, el sistema mostrará un mensaje de error.
 
 Identificador|HU05
 -------------|-------------
 **Nombre**|Editar asignaturas
 **Descripción**|Como docente, quiero ingresar las asignaturas, con la finalidad de editar los datos de la asignatura 
 **Puntos de historia (Dias ideales)**| 1
-**Criterios de aceptación**|En caso que el docente esté editando  las asignaturas, el sistema arrojará un mensaje de que se guardó los cambios.|En caso que el docente esté editando las asignaturas y se coloque el mismo nombre de asignatura saldrá un mensaje de error.
+**Criterios de aceptación**|En caso que el docente esté editando  las asignaturas, el sistema arrojará un mensaje de que se guardó los cambios
+. |En caso que el docente esté editando las asignaturas y se coloque el mismo nombre de asignatura saldrá un mensaje de error.
 
 
 
