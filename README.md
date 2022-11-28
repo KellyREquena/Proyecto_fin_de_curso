@@ -85,3 +85,6 @@ Wireframe para la historia de usuario: HU004.
 Wireframe para la historia de usuario: HU005.
 
 ![image](https://github.com/KellyREquena/Proyecto_fin_de_curso/blob/main/editar%20asignatura.png)
+
+tablero canva
+![image](https://github.com/KellyREquena/Proyecto_fin_de_curso/blob/main/editar%20asignatura.png)
