@@ -74,7 +74,7 @@ Wireframe para la historia de usuario: HU002.
 
 Wireframe para la historia de usuario: HU003.
 
-![image](https://github.com/KellyREquena/Proyecto_fin_de_curso/blob/main/agregar%20notas.png)
+![image](https://github.com/KellyREquena/Proyecto_fin_de_curso/blob/Keyla/agregar%20notas.PNG)
 
 
 Wireframe para la historia de usuario: HU004.
