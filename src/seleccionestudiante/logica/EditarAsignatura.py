@@ -88,7 +88,7 @@ class Dialogo (QDialog):
         txtNombreAsignatura=str(self.ltNombreAsignatura.text())
 
         if len (txtNombreAsignatura) == 0:
-            messagebox.showinfo("Alerta","Falta ingresar el nombre de la asignatura")
+            messagebox.showinfo("Alerta","Falta ingresar su nombre de la asignatura")
         else:
             busqueda = session.query (Asignatura).filter (Asignatura.nombreAsignatura == txtNombreAsignatura).all ()
             if len (busqueda) == 0:
